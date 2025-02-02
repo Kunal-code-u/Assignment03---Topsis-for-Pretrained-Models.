@@ -79,9 +79,9 @@ python 102216002_Topsis for Pretrained Models.
 - **Inference time & model size** have a minor impact due to their lower weights.
 
 ## Contributions
-- Developed by: **[Your Name]**
+- Developed by: **[Kunal]**
 - Institution: **Thapar Institute of Engineering and Technology**
-- Contact: **[Your Email]**
+- Contact: **[kbhalla600@gmail.com]**
 
 ## License
 This project is open-source and available under the **MIT License**.
