@@ -59,7 +59,7 @@ pip install numpy pandas matplotlib transformers datasets scikit-learn torch
 ### Running the Script
 Execute the following command:
 ```bash
-python topsis_text_classification.py
+python 102216002_Topsis for Pretrained Models.
 ```
 
 ### Expected Output
